@@ -16,7 +16,7 @@ The IT security sector has realized for some time now that spending all their ti
 
 There are some interesting properties of spending proper time dealing with post-production incidents. Firstly, it allows the system designers and developers to understand what attack patterns are typical against systems. In classical IT security, e.g. [honeypots](https://www.kaspersky.com/resource-center/threats/what-is-a-honeypot) are often used to understand attacker behavior. These are (often under-protected) systems deployed either on the public internet, or more interestingly, on the intranet(s) of organizations, to see if (and how) attackers try to attack it. These systems can help spot (novel) attack patterns, and attackers in general. Other information-sharing systems are also in-place in the traditional IT security world: in Germany [the BSI](https://www.bsi.bund.de/EN/Home/home_node.html) is responsible to warn large enterprises of (novel/successful) attack patterns in the wild. Within the space of cryptocurrencies, attacks tend to be on the public chain, and can be observed directly both as they happen, and retrospectively, thanks to the public ledger. There is plenty to learn from how others succeed, or fail.
 
-## MEV, Frontrunning, and Shift Right
+## Frontrunning, MEV, and On-Chain Security-as-a-Service
 
 With all the above out of the way, let's get to the meat of this article: how behavior patterns in the cryptocurrency world that are often cited as undesirable are actually doing a form of shift right. This inadvertent shift right is something I believe we could exploit to improve the safety of the chain overall.
 
