@@ -1,6 +1,6 @@
 # A Tale of Shift Right, Frontrunning, and MEV
 
-[[ To be deleted This blog post is about trying to see the traditionally undesired transaction reordering issue, observed on cryptocurrency chains, as a form of attack detection & response. Transaction reordering is big business, and I believe there is reason to believe it will provide a form of on-chain security, and there seem to be signs this is already happening. ]]
+Paragraph to be deleted: [[This blog post is about trying to see the traditionally undesired transaction reordering issue, observed on cryptocurrency chains, as a form of attack detection & response. Transaction reordering is big business, and I believe there is reason to believe it will provide a form of on-chain security, and there seem to be signs this is already happening. ]]
 
 The NIST [Cybersecurity Framework's five Functions](https://www.nist.gov/cyberframework/online-learning/five-functions) are: Identify, Protect, Detect, Respond, and Recover. Within this framework "shift left" means that we shift our focus towards Identify and Protect, i.e. towards fixing issues before our system is deployed into production. Say, if you have a bug in your Apple Store/Google Play app, you'd prefer fixing it before you deploy it to the internet, or, similarly you prefer fixing the bug in your cryptocurrency contract before you deploy it in the wild (i.e. "on the mainnet"). While shift left makes lots of sense (let's prevent the issue in the first place!), in many cases, preventing all issues is likely impossible.
 
