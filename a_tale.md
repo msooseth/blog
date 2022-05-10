@@ -1,4 +1,4 @@
-# A Tale of Shift Right, Frontrunning, and MEV
+# A Tale of Shift Left, Shift Right, and MEV
 
 Paragraph to be deleted: [[This blog post is about trying to see the traditionally undesired transaction reordering issue, observed on cryptocurrency chains, as a form of attack detection & response. Transaction reordering is big business, and I believe there is reason to believe it will provide a form of on-chain security, and there seem to be signs this is already happening. ]]
 
